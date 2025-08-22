@@ -13,12 +13,12 @@
     <!-- Navigation Bar -->
     <header>
         <nav class="navbar">
-            <div class="logo">Maddy.dev</div>
+            <div class="logo">Maddy.BCA</div>
             <ul class="nav-links" id="nav-links">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#Settings">Settings</a></li>
             </ul>
             <div class="menu-toggle" id="menu-toggle">&#9776;</div>
         </nav>
@@ -42,7 +42,7 @@
             and solving real-world problems through creative solutions.
         </p>
         <p>
-            When I’m not coding, I enjoy sketching, reading tech blogs, and playing chess ♟️.
+            When I’m not coding, I enjoy Sleeping, Watching Tech Channels, and playing Games ♟️.
         </p>
     </section>
 
@@ -86,7 +86,7 @@
 
     <!-- Footer -->
     <footer>
-        <p>&copy; 2025 Maddy.dev | Designed with ❤️ by Maddy</p>
+        <p>&copy; 2025 Maddy.BCA | Designed with ❤️ by Maddy</p>
     </footer>
 
 </body>
